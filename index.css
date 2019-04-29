@@ -1,0 +1,21 @@
+body {
+    height: 400vh;
+}
+
+#animasjonsrute {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100vw;
+    height: 500px;
+    background-color: burlywood;
+}
+
+#skip {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: slateblue;
+}
